@@ -4,7 +4,6 @@ I have shared my all Python Practice files here including Basic Python, Advance 
 
 ## Basic Python:
 • Datatypes & Datastructures
-
 • Typecasting
 • Conditional Statements
 • Looping Statements
@@ -14,7 +13,6 @@ I have shared my all Python Practice files here including Basic Python, Advance 
 • Decorator, Generator and Iterator
 
 ## OOP'S in Python:
-• Class & Objects
 • Inheritance
 • Polymorphism
 • Abstraction
@@ -23,3 +21,4 @@ I have shared my all Python Practice files here including Basic Python, Advance 
 ## That's it for Python
 
 # Thank You.☻
+
